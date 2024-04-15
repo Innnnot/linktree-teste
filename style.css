@@ -1,0 +1,33 @@
+body{
+    height: auto;
+    color: white;
+    background: rgb(106,90,205);
+    background: linear-gradient(180deg, rgba(106,90,205,1) 50%, rgba(52,2,113,1) 100%);
+    font-family: 'Trebuchet MS';
+    text-align: center;
+  }
+  img {
+    border-radius: 282px;
+  }
+  h2 {
+    font-size: 18px;
+  }  
+  p{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+  }
+  a{
+    
+    width: 400px;
+    margin: auto;
+    background-color: rgb(54, 14, 107);
+    font-size: 20px;
+    border: solid;
+    border-radius: 10px;
+    padding: 1px 0 1px 0;
+    display: block;
+    text-align: center;
+    color: slateblue;
+  }
+/*comentario*/
